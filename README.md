@@ -2,18 +2,21 @@
 
 CODSOFT GitHub Repository Overview:
 
-Welcome to the CODSOFT GitHub repository! This repository houses a collection of three diverse and exciting projects showcasing my capabilities in Python Programming. Each project is accompanied by its corresponding code, providing a comprehensive resource for anyone interested in exploring these topics.
+Welcome to the CODSOFT GitHub repository! This repository houses a collection of four diverse and exciting projects showcasing my capabilities in Python Programming. Each project is accompanied by its corresponding code, providing a comprehensive resource for anyone interested in exploring these topics.
 
 Project List:
 
 Password Generator:
-Project 
+Project : https://github.com/13Anush/CODSOFT/blob/main/Password%20Generator.py
 
 Calculator:
-Project 
+Project : https://github.com/13Anush/CODSOFT/blob/main/CALCULATOR.py
 
 TO DO LIST
-Project :
+Project : https://github.com/13Anush/CODSOFT/blob/main/TO-DO%20List.py
+
+Weather Forecast
+Project : https://github.com/13Anush/CODSOFT/blob/main/Weather%20Forecast.py
 
 
 Contributing:
